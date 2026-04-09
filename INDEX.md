@@ -875,7 +875,7 @@ Want to add more examples? Follow the structure:
 ---
 
 **Last Updated**: April 9, 2026
-**Claude Code Version**: 2.3.0
+**Claude Code Version**: 2.1.97
 **Total Examples**: 100+ files
 **Categories**: 10 features
 **Hooks**: 8 automation scripts

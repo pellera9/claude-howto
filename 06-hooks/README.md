@@ -1166,5 +1166,5 @@ Edit `~/.claude/settings.json` or `.claude/settings.json` with the hook configur
 
 ---
 **Last Updated**: April 9, 2026
-**Claude Code Version**: 2.3.0
+**Claude Code Version**: 2.1.97
 **Compatible Models**: Claude Sonnet 4.6, Claude Opus 4.6, Claude Haiku 4.5

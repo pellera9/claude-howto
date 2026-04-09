@@ -506,4 +506,4 @@ Getting started checklist:
 
 ---
 **Last Updated**: April 9, 2026
-**Claude Code Version**: 2.3.0
+**Claude Code Version**: 2.1.97
